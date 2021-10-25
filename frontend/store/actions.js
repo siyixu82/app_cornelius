@@ -1,0 +1,10 @@
+export const SET_ID = 'SET_ID';
+export const SET_FIRSTNAME = 'SET_FIRSTNAME';
+export const SET_LASTNAME = 'SET_LASTNAME';
+export const SET_EMAIL = 'SET_EMAIL';
+export const SET_PHYSICIANS = 'SET_PHYSICIANS';
+export const ADD_PHYSICIAN = 'ADD_PHYSICIAN';
+export const SET_FACILITIES = 'SET_FACILITIES';
+export const ADD_FACILITY = 'ADD_FACILITY';
+export const SET_JOURNALS = 'SET_JOURNALS';
+export const ADD_JOURNAL = 'ADD_JOURNAL';
